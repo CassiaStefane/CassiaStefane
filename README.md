@@ -3,7 +3,6 @@
 - 💻 Estudante de Front-End
 - 📫 Atualmente aprendendo react
 - 📧 Me contate no email: cassiastefani25@gmail.com
-- 😄 Pronouns: ela/dela
 
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cassia-St)
 <div style="display: inline-block">
