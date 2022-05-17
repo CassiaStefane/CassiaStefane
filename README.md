@@ -7,7 +7,7 @@
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cassia-St)
 <div style="display: inline-block">
   
- /* ![Cássia GitHub stats](https://github-readme-stats.vercel.app/api?username=CassiaStefane&show_icons=true&theme=midnight-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaStefane&layout=compact&langs_count-16&theme=midnight-purple)*/
+  ![Cássia GitHub stats](https://github-readme-stats.vercel.app/api?username=CassiaStefane&show_icons=true&theme=midnight-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaStefane&layout=compact&langs_count-16&theme=midnight-purple)
   
   ## Algumas tecnologias que uso:
   
