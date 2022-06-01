@@ -1,10 +1,11 @@
 ## Oii! Meu nome é Cássia Morais prazer em conhecer.
 
 - 💻 Estudante de Front-End
-- 📫 Atualmente aprendendo react
+- 📫 Atualmente aprendendo Javascript
 - 📧 Me contate no email: cassiastefani25@gmail.com
 
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cassia-St)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cássia-stefani-morais-a0422923b)
 <div style="display: inline-block">
   
   ![Cássia GitHub stats](https://github-readme-stats.vercel.app/api?username=CassiaStefane&show_icons=true&theme=midnight-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaStefane&layout=compact&langs_count-16&theme=midnight-purple)
