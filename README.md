@@ -1,7 +1,7 @@
 ## Oii! Meu nome é Cássia Morais prazer em conhecer.
 
 - 💻 Estudante de Front-End
-- 📫 Atualmente aprendendo Javascript
+- 📫 Atualmente aprendendo React
 - 📧 Me contate no email: cassiastefani25@gmail.com
 
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cassia-St)
