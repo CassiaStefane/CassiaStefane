@@ -8,6 +8,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/cássia-stefani-morais-a0422923b)
 <div style="display: inline-block">
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaStefane&layout=donut&theme=midnight-purple)](https://github.com/CassiaStefane/github-readme-stats)
+  ![Cássia GitHub stats](https://github-readme-stats.vercel.app/api?username=CassiaStefane&show_icons=true&theme=midnight-purple)
+
   ## Algumas tecnologias que uso:
   
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
