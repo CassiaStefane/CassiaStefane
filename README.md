@@ -7,9 +7,6 @@
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cassia-St)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/cássia-stefani-morais-a0422923b)
 <div style="display: inline-block">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaStefane&layout=donut&theme=midnight-purple)](https://github.com/CassiaStefane/github-readme-stats)
-  ![Cássia GitHub stats](https://github-readme-stats.vercel.app/api?username=CassiaStefane&show_icons=true&theme=midnight-purple)
 
   ## Algumas tecnologias que uso:
   
