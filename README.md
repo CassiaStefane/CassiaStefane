@@ -1,5 +1,7 @@
 ## Oii! Meu nome é Cássia Morais prazer em conhecer.
 
+Me chamo Cássia e sou um fascinado por tecnologia e web design há alguns anos. Sou mineira e tenho 23 anos, desde cedo descobri minha paixão por essa área e tenho me dedicado a aprimorar minhas habilidades. Estou constantemente buscando oportunidades para aprender e crescer profissionalmente nesse mercado.
+
 - 💻 Estudante de Front-End
 - 📫 Atualmente aprendendo React
 - 📧 Me contate no email: cassiastefani25@gmail.com
@@ -16,5 +18,7 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit">
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CassiaStefane&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### - Apaixonada por aprender, tecnologia e principalmente programaçâo.
