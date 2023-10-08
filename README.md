@@ -19,6 +19,4 @@ Me chamo Cássia e sou um fascinado por tecnologia e web design há alguns anos.
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CassiaStefane&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ### - Apaixonada por aprender, tecnologia e principalmente programaçâo.
